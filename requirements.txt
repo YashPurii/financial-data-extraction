@@ -1,0 +1,8 @@
+pytesseract
+PyPDF2
+pillow
+speechrecognition
+pydub
+requests
+pandas
+sqlite3
